@@ -19,7 +19,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+// ez itt a kommentünk!
 app.MapRazorPages();
 
 app.Run();
